@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@kenkool23 
-kenkool23
-/
-front-end
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-front-end/server.js /
-@kenkool23
-kenkool23 npm package
-Latest commit 7dfcfd0 on Mar 30, 2021
- History
- 1 contributor
-Executable File  133 lines (111 sloc)  5.33 KB
-   
 'use strict';
 
 console.log(`process.env.SERVER = ${process.env.SERVER}`);
@@ -160,16 +131,3 @@ const server = app.listen(PORT, () => {
 });
 
 module.exports = app;
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
