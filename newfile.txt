@@ -1,2 +1,4 @@
 Just testing git branch...
 i see what you did there..
+Testing branches from git CLI
+Another line
